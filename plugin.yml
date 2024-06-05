@@ -1,4 +1,4 @@
-git_url: "https://github.com/Polokalap/plugin.git"
+git_url: "https://github.com/Polokalap/plugin/plugin.git"
 module_folder: "tp plugin"
 name: "tp plugin"
 description: "This is an example plugin bada bing bada boom."
